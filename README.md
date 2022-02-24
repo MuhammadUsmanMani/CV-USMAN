@@ -13,7 +13,7 @@
         
         body {
             border: 2px solid black;
-            outline: #2240c5b0 solid 10px;
+            outline: #FF8633 solid 10px;
             margin: 5%;
             padding: 20px;
             text-align: justify;
@@ -89,7 +89,7 @@
             <h1><u>QUALIFICATIONS</u></h1>
 
 
-            <table border="6px" style="padding: 5px; color:black; border-color:blue; height: 90%; width: 70% ;">
+            <table border="7px" style="padding: 5px; color:black; border-color:green; height: 90%; width: 70% ;">
                 <tr>
                     <td><b>DIGREE/CERTIFICATE</b></td>
                     <td><b>MARKKS/CGPA</b></td>
