@@ -13,7 +13,7 @@
         
         body {
             border: 2px solid black;
-            outline: #FF8633 solid 10px;
+            outline: #FF4C33 solid 10px;
             margin: 5%;
             padding: 20px;
             text-align: justify;
