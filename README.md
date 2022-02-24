@@ -47,7 +47,7 @@
                     </td>
 
 
-                    <td> <img src="D:\web development\usman.jpg" height="300px" width="300"></td>
+                    <td> <img src="D:\web105 2022\Muhamamd Usman.jpg" height="300px" width="300"></td>
                 </tr>
             </table>
 
