@@ -47,7 +47,7 @@
                     </td>
 
 
-                    <td> <img src="DSC_7963.jpg" height="200px" width="150"></td>
+                    <td> <img src="D:\web development\usman.jpg" height="200px" width="150"></td>
                 </tr>
             </table>
 
